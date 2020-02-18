@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/geometric-theme/static/css/main.d1b05096.chunk.css",
+    "main.js": "/geometric-theme/static/js/main.5d3e0588.chunk.js",
+    "main.js.map": "/geometric-theme/static/js/main.5d3e0588.chunk.js.map",
+    "runtime-main.js": "/geometric-theme/static/js/runtime-main.c5222046.js",
+    "runtime-main.js.map": "/geometric-theme/static/js/runtime-main.c5222046.js.map",
+    "static/js/2.ed565188.chunk.js": "/geometric-theme/static/js/2.ed565188.chunk.js",
+    "static/js/2.ed565188.chunk.js.map": "/geometric-theme/static/js/2.ed565188.chunk.js.map",
+    "index.html": "/geometric-theme/index.html",
+    "precache-manifest.0d987cc5059cdd16d7d2f553206755e1.js": "/geometric-theme/precache-manifest.0d987cc5059cdd16d7d2f553206755e1.js",
+    "service-worker.js": "/geometric-theme/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/geometric-theme/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.ed565188.chunk.js.LICENSE.txt": "/geometric-theme/static/js/2.ed565188.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/geometric-theme/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5222046.js",
+    "static/js/2.ed565188.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5d3e0588.chunk.js"
+  ]
+}
