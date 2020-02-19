@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac97c8441a330b5c6688d0d6a3a05f91",
+    "revision": "fb93077ad36faed2190c9ebdcea87f09",
     "url": "/geometric-theme/index.html"
   },
   {
-    "revision": "c73f1bd84d26bda87363",
-    "url": "/geometric-theme/static/css/main.0d23c03a.chunk.css"
+    "revision": "26f045338ce549ad4fe0",
+    "url": "/geometric-theme/static/css/main.20c87855.chunk.css"
   },
   {
     "revision": "d8c4eb224596735c6f36",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/geometric-theme/static/js/2.c41d7a3e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c73f1bd84d26bda87363",
+    "revision": "26f045338ce549ad4fe0",
     "url": "/geometric-theme/static/js/main.ddcb5258.chunk.js"
   },
   {
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/geometric-theme/static/media/MyPic.188fbd6a.jpg"
   },
   {
-    "revision": "37b3ad32295cada45f53b450425a7f6b",
-    "url": "/geometric-theme/static/media/small-geometric.37b3ad32.png"
+    "revision": "e4497e8cdcda9c47e7754e258cab246c",
+    "url": "/geometric-theme/static/media/geometric-2.e4497e8c.png"
   }
 ]);
