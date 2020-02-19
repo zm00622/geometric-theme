@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/geometric-theme/static/css/main.0d23c03a.chunk.css",
-    "main.js": "/geometric-theme/static/js/main.ddcb5258.chunk.js",
-    "main.js.map": "/geometric-theme/static/js/main.ddcb5258.chunk.js.map",
+    "main.css": "/geometric-theme/static/css/main.9241e103.chunk.css",
+    "main.js": "/geometric-theme/static/js/main.3116c6cd.chunk.js",
+    "main.js.map": "/geometric-theme/static/js/main.3116c6cd.chunk.js.map",
     "runtime-main.js": "/geometric-theme/static/js/runtime-main.c5222046.js",
     "runtime-main.js.map": "/geometric-theme/static/js/runtime-main.c5222046.js.map",
     "static/js/2.c41d7a3e.chunk.js": "/geometric-theme/static/js/2.c41d7a3e.chunk.js",
     "static/js/2.c41d7a3e.chunk.js.map": "/geometric-theme/static/js/2.c41d7a3e.chunk.js.map",
     "index.html": "/geometric-theme/index.html",
-    "precache-manifest.26c099ac42ac920b689a73a75cd7c42e.js": "/geometric-theme/precache-manifest.26c099ac42ac920b689a73a75cd7c42e.js",
+    "precache-manifest.44b2ba59d967905b7b045e4d73da5848.js": "/geometric-theme/precache-manifest.44b2ba59d967905b7b045e4d73da5848.js",
     "service-worker.js": "/geometric-theme/service-worker.js",
-    "static/css/main.0d23c03a.chunk.css.map": "/geometric-theme/static/css/main.0d23c03a.chunk.css.map",
+    "static/css/main.9241e103.chunk.css.map": "/geometric-theme/static/css/main.9241e103.chunk.css.map",
     "static/js/2.c41d7a3e.chunk.js.LICENSE.txt": "/geometric-theme/static/js/2.c41d7a3e.chunk.js.LICENSE.txt",
     "static/media/MyPic.jpg": "/geometric-theme/static/media/MyPic.188fbd6a.jpg",
-    "static/media/App.css": "/geometric-theme/static/media/small-geometric.37b3ad32.png"
+    "static/media/App.css": "/geometric-theme/static/media/geometric-2.e4497e8c.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c5222046.js",
     "static/js/2.c41d7a3e.chunk.js",
-    "static/css/main.0d23c03a.chunk.css",
-    "static/js/main.ddcb5258.chunk.js"
+    "static/css/main.9241e103.chunk.css",
+    "static/js/main.3116c6cd.chunk.js"
   ]
 }
