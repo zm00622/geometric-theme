@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/geometric-theme/static/css/main.9241e103.chunk.css",
-    "main.js": "/geometric-theme/static/js/main.0abb6a5a.chunk.js",
-    "main.js.map": "/geometric-theme/static/js/main.0abb6a5a.chunk.js.map",
+    "main.css": "/geometric-theme/static/css/main.ba9e8bfc.chunk.css",
+    "main.js": "/geometric-theme/static/js/main.dd6214c5.chunk.js",
+    "main.js.map": "/geometric-theme/static/js/main.dd6214c5.chunk.js.map",
     "runtime-main.js": "/geometric-theme/static/js/runtime-main.c5222046.js",
     "runtime-main.js.map": "/geometric-theme/static/js/runtime-main.c5222046.js.map",
     "static/js/2.c41d7a3e.chunk.js": "/geometric-theme/static/js/2.c41d7a3e.chunk.js",
     "static/js/2.c41d7a3e.chunk.js.map": "/geometric-theme/static/js/2.c41d7a3e.chunk.js.map",
     "index.html": "/geometric-theme/index.html",
-    "precache-manifest.d82900963d4d0fbbe0939aa80cd29fa7.js": "/geometric-theme/precache-manifest.d82900963d4d0fbbe0939aa80cd29fa7.js",
+    "precache-manifest.66a0c9ceec5134e085bf955ef9c5c01a.js": "/geometric-theme/precache-manifest.66a0c9ceec5134e085bf955ef9c5c01a.js",
     "service-worker.js": "/geometric-theme/service-worker.js",
-    "static/css/main.9241e103.chunk.css.map": "/geometric-theme/static/css/main.9241e103.chunk.css.map",
+    "static/css/main.ba9e8bfc.chunk.css.map": "/geometric-theme/static/css/main.ba9e8bfc.chunk.css.map",
     "static/js/2.c41d7a3e.chunk.js.LICENSE.txt": "/geometric-theme/static/js/2.c41d7a3e.chunk.js.LICENSE.txt",
     "static/media/MyPic.jpg": "/geometric-theme/static/media/MyPic.188fbd6a.jpg",
     "static/media/App.css": "/geometric-theme/static/media/geometric-2.e4497e8c.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.c5222046.js",
     "static/js/2.c41d7a3e.chunk.js",
-    "static/css/main.9241e103.chunk.css",
-    "static/js/main.0abb6a5a.chunk.js"
+    "static/css/main.ba9e8bfc.chunk.css",
+    "static/js/main.dd6214c5.chunk.js"
   ]
 }
