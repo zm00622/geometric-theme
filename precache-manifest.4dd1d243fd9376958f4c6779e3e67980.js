@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eaf61fe394098483e5e6f5b40e55fdbe",
+    "revision": "d8710594d9475beebe234867f5ed41f0",
     "url": "/geometric-theme/index.html"
   },
   {
-    "revision": "dc3996225281bc88a41d",
+    "revision": "68eaefe472c6bccc0d7f",
     "url": "/geometric-theme/static/css/main.ba9e8bfc.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/geometric-theme/static/js/2.c41d7a3e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc3996225281bc88a41d",
-    "url": "/geometric-theme/static/js/main.dd6214c5.chunk.js"
+    "revision": "68eaefe472c6bccc0d7f",
+    "url": "/geometric-theme/static/js/main.74861e1d.chunk.js"
   },
   {
     "revision": "588068d314bedfa94acc",
